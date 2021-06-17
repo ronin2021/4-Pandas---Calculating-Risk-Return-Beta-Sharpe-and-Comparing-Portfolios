@@ -1,1 +1,1 @@
-# 4-Pandas---Calculating-Risk-Return-Beta-Sharpe-and-Comparing-Portfolios
+# Calculating Risk Return Beta Sharpe and Comparing Portfolios using Pandas
